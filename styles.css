@@ -1,0 +1,17 @@
+body {
+  background-color: #ff69b4;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  color: white;
+  font-size: 5em;
+  text-align: center;
+  text-shadow: 2px 2px black;
+}
