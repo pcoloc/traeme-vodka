@@ -15,3 +15,7 @@ h1 {
   text-align: center;
   text-shadow: 2px 2px black;
 }
+
+.shake {
+ animation: shake 1s infinite;
+}
