@@ -18,6 +18,13 @@ h1 {
   animation: shake 1s infinite;
 }
 
+p {
+  color: white;
+  font-size: 3em;
+  text-align: center;
+  text-shadow: 2px 2px black;
+}
+
 .shake {
  animation: shake 1s infinite;
 }
